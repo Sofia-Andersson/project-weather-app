@@ -9,6 +9,8 @@ We started out by laying down the base structure for the HTML elements with ids 
 
 If we had more time we would add more features such as Geolocation Api, and the ability to use a text input field to search any city in the world
 
+Branches and full history can be seen here: https://github.com/joeohm/project-weather-app
+
 ## View it live
 
 https://helpful-pony-3b978e.netlify.app/
